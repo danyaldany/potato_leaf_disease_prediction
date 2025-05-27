@@ -2,7 +2,7 @@
 
 A deep learning–based web application that predicts diseases in potato leaves from images using a trained CNN model.
 
-Table of Contents
+**Table of Contents
     Overview
     Features
     Tech Stack
@@ -38,6 +38,7 @@ The model is trained on the PlantVillage dataset and deployed as a web app with 
     
 
 3)Tech Stack
+
     | Area       | Tools/Frameworks                       |
     | ---------- | -------------------------------------- |
     | Language   | Python                                 |
@@ -48,12 +49,14 @@ The model is trained on the PlantVillage dataset and deployed as a web app with 
 
 
 4)Installation:
+
     bash
     git clone https://github.com/danyaldany/potato_leaf_disease_prediction.git
     cd potato_leaf_disease_prediction
     pip install -r requirements.txt
 
 5)Usage
+
     1. Start backend server
     bash
        python api/app.py
@@ -63,6 +66,7 @@ The model is trained on the PlantVillage dataset and deployed as a web app with 
        Upload a potato leaf image and get the predicted disease.
 
 6)Dataset:
+
     Used: PlantVillage Dataset: (https://www.kaggle.com/datasets/emmarex/plantdisease)
     Classes:
       Early Blight
@@ -70,10 +74,12 @@ The model is trained on the PlantVillage dataset and deployed as a web app with 
       Healthy
 
 7)Model
+
     CNN trained on image data
     Accuracy: 0.9583
     Saved model: `saved_model/model.h5`
 
 
 8)License
+
     This project is open-source under the [MIT License](LICENSE).
