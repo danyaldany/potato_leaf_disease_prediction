@@ -2,7 +2,8 @@
 
 A deep learning–based web application that predicts diseases in potato leaves from images using a trained CNN model.
 
-**Table of Contents
+Table of Contents
+
     Overview
     Features
     Tech Stack
@@ -15,7 +16,7 @@ A deep learning–based web application that predicts diseases in potato leaves 
 
 1) Overview
 
-Potato crops are vulnerable to various diseases that reduce yield and quality. This project uses deep learning (CNN) to detect and classify diseases in potato leaves such as:
+Potato crops are vulnerable to various diseases that reduce yield and quality. This project uses deep learning (CNN) todetect and classify diseases in potato leaves such as:
 
 * Early blight
 * Late blight
