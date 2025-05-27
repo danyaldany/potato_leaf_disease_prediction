@@ -23,12 +23,19 @@ Potato crops are vulnerable to various diseases that reduce yield and quality. T
 
 The model is trained on the PlantVillage dataset and deployed as a web app with a frontend and backend.
 
+
 2)Features
+
     Upload a potato leaf image and get instant disease prediction.
+    
     Clean UI built with HTML/CSS/JS (or React if applicable).
+    
     Trained deep learning model (TensorFlow/Keras).
+    
     REST API backend using Flask or FastAPI.
+    
     Model saving/loading with `.h5` or `.pb`.
+    
 
 3)Tech Stack
     | Area       | Tools/Frameworks                       |
