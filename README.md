@@ -1,4 +1,4 @@
-Potato Leaf Disease Prediction
+# Potato Leaf Disease Prediction
 
 A deep learning–based web application that predicts diseases in potato leaves from images using a trained CNN model.
 
